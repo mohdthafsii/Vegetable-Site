@@ -1,0 +1,15 @@
+.btn-primary{
+   width: 100%;
+     
+}
+
+#logpg{
+   margin-top: 5%;
+}
+
+.bg-light{
+   background-image: url('https://demishia.com/wp-content/uploads/2018/04/admin-login-background-images-8.jpg');
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 100vh;
+}
